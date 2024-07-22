@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'm NAZREEN FATHIMA</h1>
+<h1 align="center">HI 👋, I'M NAZREEN FATHIMA</h1>
 <h3 align="center">A Versatile Software Engineer with FAANG Aspirations from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazreenfathima10&label=Profile%20views&color=0e75b6&style=flat" alt="nazreenfathima10" /> </p>
@@ -13,13 +13,14 @@
 
 - 🤝 I’m looking for help with **Front end and Backend development**
 
-- 💬 Ask me about **Java,Python,AWS,Cloud computing**
+- 💬 Ask me about **Java,Python,AWS, Cloud computing**
 
 - 📫 How to reach me **sanianazreen2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/contactnazreenfathima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactnazreenfathima" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26452775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26452775" height="30" width="40" /></a>
 <a href="https://instagram.com/nazreen10___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazreen10___" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nazreen_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nazreen_10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanianazreen2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanianazreen2002" height="30" width="40" /></a>
@@ -36,6 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazreenfathima10&show_icons=true&locale=en" alt="nazreenfathima10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazreenfathima10&" alt="nazreenfathima10" /></p>
+
 
 
 
