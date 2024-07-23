@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'M NAZREEN FATHIMA</h1>
+<h1 align="center">Hola! 👋, I'm NAZREEN FATHIMA</h1>
 <h3 align="center">A Versatile Software Engineer with FAANG Aspirations from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazreenfathima10&label=Profile%20views&color=0e75b6&style=flat" alt="nazreenfathima10" /> </p>
@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on **Open-Source and Web development Projects**
 
 - 🤝 I’m looking for help with **Front end and Backend development**
+
+- My Portfolio [https://nazreenfathima10.github.io/NazreenFathima10Portfolio/](https://nazreenfathima10.github.io/NazreenFathima10Portfolio/)
 
 - 💬 Ask me about **Java,Python,AWS, Cloud computing**
 
@@ -37,7 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazreenfathima10&show_icons=true&locale=en" alt="nazreenfathima10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazreenfathima10&" alt="nazreenfathima10" /></p>
-
 
 
 
